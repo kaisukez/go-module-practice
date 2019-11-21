@@ -23,7 +23,7 @@ go get github.com/<username>/<repository>@vx.x.x
 
 Like this...
 ```
-go get github.com/kaisukez/go-module-practice@v2.0.0-alpha.1
+go get github.com/kaisukez/go-module-practice/v2@v2.1.0
 ```
 
 
