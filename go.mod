@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/kaisukez/go-module-practice
 
 go 1.13
 
