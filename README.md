@@ -27,7 +27,7 @@ go get github.com/kaisukez/go-module-practice/v2@v2.1.0
 ```
 
 
-List all existing modules
+List all existing dependent modules
 ```
 go list -m all
 ```
@@ -39,7 +39,7 @@ go mod download
 ```
 
 
-Clear all unused modules
+Clear all unused dependent modules
 ```
 go mod tidy
 ```
